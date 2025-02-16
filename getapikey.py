@@ -3,7 +3,7 @@ from aiohttp import ClientSession
 import simplipy
 
 
-FILEPATH = "/home/simplisafe/simplisafe-python-dev"
+FILEPATH = "/home/simplisafe/scripts"
 FILENAME = ".apikey"
 
 async def main() -> None:

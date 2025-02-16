@@ -3,4 +3,4 @@
 state="$1"
 
 date
-/usr/local/bin/python /home/simplisafe/simplisafe-python-dev/simplisafe.py --state $state
+/usr/local/bin/python /home/simplisafe/scripts/simplisafe.py --state $state

@@ -9,7 +9,7 @@ from aiohttp import ClientSession
 import simplipy
 from simplipy.errors import SimplipyError
 
-FILEPATH = "/home/simplisafe/simplisafe-python-dev"
+FILEPATH = "/home/simplisafe/scripts"
 FILENAME = ".apikey"
 
 _LOGGER = logging.getLogger()
